@@ -1,0 +1,15 @@
+{
+  "name": "demoplugincordova",
+  "version": "1.0.1",
+  "description": "This is a demo plugin with cordova ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Demo",
+    "Plugin"
+  ],
+  "author": "Jose Ruz",
+  "license": "ISC"
+}
