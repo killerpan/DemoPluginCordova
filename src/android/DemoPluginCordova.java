@@ -22,7 +22,7 @@ public class DemoPluginCordova extends CordovaPlugin {
 
         if(action.equals("add")){
             this.add(args,callbackContext);
-            return true
+            return true;
         }else if(action.equals("substract"))
         {
             this.substract(args,callbackContext);
